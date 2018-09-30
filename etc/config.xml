@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Store/etc/config.xsd">
+    <default>
+        <encomage_emailblocker>
+            <general>
+                <exeptional_domains>encomage.com,madebyencomage.com</exeptional_domains>
+            </general>
+        </encomage_emailblocker>
+    </default>
+</config>
