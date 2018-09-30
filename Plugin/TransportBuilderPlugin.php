@@ -1,7 +1,7 @@
 <?php
 /**
  * @link http://encomage.com
- * @mail info@encomage.com
+ * @mail hello@encomage.com
  */
 namespace Encomage\Emailblocker\Plugin;
 
