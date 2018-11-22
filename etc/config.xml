@@ -3,7 +3,7 @@
     <default>
         <encomage_emailblocker>
             <general>
-                <exeptional_domains>encomage.com,madebyencomage.com</exeptional_domains>
+                <exeptional_domains>encomage.com</exeptional_domains>
             </general>
         </encomage_emailblocker>
     </default>
